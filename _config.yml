@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Antonio Della Cioppa"
   avatar : "/assets/images/dean.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
